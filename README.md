@@ -1,36 +1,36 @@
-# \# Piłkarze z potencjałem w EAFC26
+# Piłkarze z potencjałem w EAFC26
 
 # 
 
-# Strona prezentuje listę młodych piłkarzy z ogromnym potencjałem w grze \*\*EAFC26\*\*, podzielonych według pozycji na boisku.  
+## Strona prezentuje listę młodych piłkarzy z ogromnym potencjałem w grze \*\*EAFC26\*\*, podzielonych według pozycji na boisku.  
 
 # 
 
-# \## Funkcje strony
+## Funkcje strony
 
-# \- Przejrzysty podział na pozycje: bramkarze, obrońcy, pomocnicy, skrzydłowi, napastnicy.  
+- Przejrzysty podział na pozycje: bramkarze, obrońcy, pomocnicy, skrzydłowi, napastnicy.  
 
-# \- Każda pozycja ma swoją sekcję z pięcioma piłkarzami.  
+- Każda pozycja ma swoją sekcję z pięcioma piłkarzami.  
 
-# \- Prosty, responsywny layout.  
+- Prosty, responsywny layout.  
 
-# \- Favicon i tytuł strony gotowe do użycia.  
-
-# 
-
-# \## Technologie
-
-# \- HTML5  
-
-# \- CSS3 (zewnętrzny plik `style.css`)  
+- Favicon i tytuł strony gotowe do użycia.  
 
 # 
 
-# \## Jak uruchomić
+## Technologie
 
-# 1\. Sklonuj repozytorium lub pobierz ZIP:  
+- HTML5  
 
-# &#x20;  ```bash
+- CSS3 (zewnętrzny plik `style.css`)  
 
-# &#x20;  git clone https://github.com/Springusiek/IndexEAFC26.git
+# 
+
+## Jak uruchomić
+
+1. Sklonuj repozytorium lub pobierz ZIP:  
+
+&#x20;  ```bash
+
+&#x20;  git clone https://github.com/Springusiek/IndexEAFC26.git
 
